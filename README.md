@@ -1,5 +1,5 @@
 # Terraform Workshop
-An example project for the ins and outs of building IaC with Terraform
+An example project to present the ins and outs of building IaC with Terraform
 
 ## Agenda
  - What is Terraform
