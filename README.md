@@ -13,3 +13,4 @@ An example project to present the ins and outs of building IaC with Terraform
  - State management
  - Trouble shooting issues
  - Modules
+ - DevOps
